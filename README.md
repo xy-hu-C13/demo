@@ -18,5 +18,5 @@ Hi! I'm Xiyun (Hedy), a graduate student at Columbia University. I am passionate
 - **Analytic methods:** Social Network Analysis, GIS & Spatial Analysis, Machine Learning 
 
 ### Contact
-- [LinkedIn](https://www.linkedin.com/in/xiyunhu/)
-- [Email](xiyunhedyhu@gmail.com)
+- **LinkedIn:** [Hedy Hu](https://www.linkedin.com/in/xiyunhu/)
+- **Email:** xiyunhedyhu@gmail.com

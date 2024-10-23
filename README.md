@@ -12,11 +12,11 @@ Hi! I'm Xiyun (Hedy), a graduate student at Columbia University. I am passionate
 - **Market Research**
 - **Experimental Psychology**
 
-## Skills
+### Skills
 - **Languages:** Python, R, SQL  
 - **Tools:** SPSS, Tableau, Qualtrics, E-Prime, MS Office
 - **Analytic methods:** Social Network Analysis, GIS & Spatial Analysis, Machine Learning 
 
-## Contact
+### Contact
 - [LinkedIn](https://www.linkedin.com/in/xiyunhu/)
 - [Email](xiyunhedyhu@gmail.com)
